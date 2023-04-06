@@ -10,4 +10,4 @@ with st.echo(code_location='below'):
 
   max_val = max(number1, number2, number3)
 
-  st.write('The largest among the 3 given numbers is : ',max_val)
+  st.subheader('The largest among the 3 given numbers is : ',max_val)
